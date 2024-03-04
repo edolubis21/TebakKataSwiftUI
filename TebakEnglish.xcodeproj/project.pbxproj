@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		088B052F2B9603130079138B /* TebakEnglishApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088B052E2B9603130079138B /* TebakEnglishApp.swift */; };
+		088B05312B9603130079138B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088B05302B9603130079138B /* ContentView.swift */; };
+		088B05332B9603140079138B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 088B05322B9603140079138B /* Assets.xcassets */; };
+		088B05362B9603140079138B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 088B05352B9603140079138B /* Preview Assets.xcassets */; };
+		088B05402B9603140079138B /* TebakEnglishTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088B053F2B9603140079138B /* TebakEnglishTests.swift */; };
+		088B054A2B9603140079138B /* TebakEnglishUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088B05492B9603140079138B /* TebakEnglishUITests.swift */; };
+		088B054C2B9603140079138B /* TebakEnglishUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 088B054B2B9603140079138B /* TebakEnglishUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		088B053C2B9603140079138B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 088B05232B9603130079138B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 088B052A2B9603130079138B;
+			remoteInfo = TebakEnglish;
+		};
+		088B05462B9603140079138B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 088B05232B9603130079138B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 088B052A2B9603130079138B;
+			remoteInfo = TebakEnglish;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		088B052B2B9603130079138B /* TebakEnglish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TebakEnglish.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		088B052E2B9603130079138B /* TebakEnglishApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TebakEnglishApp.swift; sourceTree = "<group>"; };
+		088B05302B9603130079138B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		088B05322B9603140079138B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		088B05352B9603140079138B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		088B053B2B9603140079138B /* TebakEnglishTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TebakEnglishTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		088B053F2B9603140079138B /* TebakEnglishTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TebakEnglishTests.swift; sourceTree = "<group>"; };
+		088B05452B9603140079138B /* TebakEnglishUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TebakEnglishUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		088B05492B9603140079138B /* TebakEnglishUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TebakEnglishUITests.swift; sourceTree = "<group>"; };
+		088B054B2B9603140079138B /* TebakEnglishUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TebakEnglishUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		088B05282B9603130079138B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05382B9603140079138B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05422B9603140079138B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		088B05222B9603130079138B = {
+			isa = PBXGroup;
+			children = (
+				088B052D2B9603130079138B /* TebakEnglish */,
+				088B053E2B9603140079138B /* TebakEnglishTests */,
+				088B05482B9603140079138B /* TebakEnglishUITests */,
+				088B052C2B9603130079138B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		088B052C2B9603130079138B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				088B052B2B9603130079138B /* TebakEnglish.app */,
+				088B053B2B9603140079138B /* TebakEnglishTests.xctest */,
+				088B05452B9603140079138B /* TebakEnglishUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		088B052D2B9603130079138B /* TebakEnglish */ = {
+			isa = PBXGroup;
+			children = (
+				088B052E2B9603130079138B /* TebakEnglishApp.swift */,
+				088B05302B9603130079138B /* ContentView.swift */,
+				088B05322B9603140079138B /* Assets.xcassets */,
+				088B05342B9603140079138B /* Preview Content */,
+			);
+			path = TebakEnglish;
+			sourceTree = "<group>";
+		};
+		088B05342B9603140079138B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				088B05352B9603140079138B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		088B053E2B9603140079138B /* TebakEnglishTests */ = {
+			isa = PBXGroup;
+			children = (
+				088B053F2B9603140079138B /* TebakEnglishTests.swift */,
+			);
+			path = TebakEnglishTests;
+			sourceTree = "<group>";
+		};
+		088B05482B9603140079138B /* TebakEnglishUITests */ = {
+			isa = PBXGroup;
+			children = (
+				088B05492B9603140079138B /* TebakEnglishUITests.swift */,
+				088B054B2B9603140079138B /* TebakEnglishUITestsLaunchTests.swift */,
+			);
+			path = TebakEnglishUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		088B052A2B9603130079138B /* TebakEnglish */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 088B054F2B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglish" */;
+			buildPhases = (
+				088B05272B9603130079138B /* Sources */,
+				088B05282B9603130079138B /* Frameworks */,
+				088B05292B9603130079138B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TebakEnglish;
+			productName = TebakEnglish;
+			productReference = 088B052B2B9603130079138B /* TebakEnglish.app */;
+			productType = "com.apple.product-type.application";
+		};
+		088B053A2B9603140079138B /* TebakEnglishTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 088B05522B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglishTests" */;
+			buildPhases = (
+				088B05372B9603140079138B /* Sources */,
+				088B05382B9603140079138B /* Frameworks */,
+				088B05392B9603140079138B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				088B053D2B9603140079138B /* PBXTargetDependency */,
+			);
+			name = TebakEnglishTests;
+			productName = TebakEnglishTests;
+			productReference = 088B053B2B9603140079138B /* TebakEnglishTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		088B05442B9603140079138B /* TebakEnglishUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 088B05552B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglishUITests" */;
+			buildPhases = (
+				088B05412B9603140079138B /* Sources */,
+				088B05422B9603140079138B /* Frameworks */,
+				088B05432B9603140079138B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				088B05472B9603140079138B /* PBXTargetDependency */,
+			);
+			name = TebakEnglishUITests;
+			productName = TebakEnglishUITests;
+			productReference = 088B05452B9603140079138B /* TebakEnglishUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		088B05232B9603130079138B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					088B052A2B9603130079138B = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					088B053A2B9603140079138B = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 088B052A2B9603130079138B;
+					};
+					088B05442B9603140079138B = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = 088B052A2B9603130079138B;
+					};
+				};
+			};
+			buildConfigurationList = 088B05262B9603130079138B /* Build configuration list for PBXProject "TebakEnglish" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 088B05222B9603130079138B;
+			productRefGroup = 088B052C2B9603130079138B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				088B052A2B9603130079138B /* TebakEnglish */,
+				088B053A2B9603140079138B /* TebakEnglishTests */,
+				088B05442B9603140079138B /* TebakEnglishUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		088B05292B9603130079138B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				088B05362B9603140079138B /* Preview Assets.xcassets in Resources */,
+				088B05332B9603140079138B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05392B9603140079138B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05432B9603140079138B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		088B05272B9603130079138B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				088B05312B9603130079138B /* ContentView.swift in Sources */,
+				088B052F2B9603130079138B /* TebakEnglishApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05372B9603140079138B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				088B05402B9603140079138B /* TebakEnglishTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		088B05412B9603140079138B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				088B054A2B9603140079138B /* TebakEnglishUITests.swift in Sources */,
+				088B054C2B9603140079138B /* TebakEnglishUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		088B053D2B9603140079138B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 088B052A2B9603130079138B /* TebakEnglish */;
+			targetProxy = 088B053C2B9603140079138B /* PBXContainerItemProxy */;
+		};
+		088B05472B9603140079138B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 088B052A2B9603130079138B /* TebakEnglish */;
+			targetProxy = 088B05462B9603140079138B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		088B054D2B9603140079138B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		088B054E2B9603140079138B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		088B05502B9603140079138B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TebakEnglish/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglish;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		088B05512B9603140079138B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TebakEnglish/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglish;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		088B05532B9603140079138B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglishTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TebakEnglish.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TebakEnglish";
+			};
+			name = Debug;
+		};
+		088B05542B9603140079138B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglishTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TebakEnglish.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TebakEnglish";
+			};
+			name = Release;
+		};
+		088B05562B9603140079138B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglishUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TebakEnglish;
+			};
+			name = Debug;
+		};
+		088B05572B9603140079138B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.TebakEnglishUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TebakEnglish;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		088B05262B9603130079138B /* Build configuration list for PBXProject "TebakEnglish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				088B054D2B9603140079138B /* Debug */,
+				088B054E2B9603140079138B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		088B054F2B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglish" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				088B05502B9603140079138B /* Debug */,
+				088B05512B9603140079138B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		088B05522B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglishTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				088B05532B9603140079138B /* Debug */,
+				088B05542B9603140079138B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		088B05552B9603140079138B /* Build configuration list for PBXNativeTarget "TebakEnglishUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				088B05562B9603140079138B /* Debug */,
+				088B05572B9603140079138B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 088B05232B9603130079138B /* Project object */;
+}
