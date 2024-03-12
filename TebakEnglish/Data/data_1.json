@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "6",
+            "idMatch": "11",
+            "text": "orange"
+        },
+        {
+            "id": "7",
+            "idMatch": "12",
+            "text": "never"
+        },
+        {
+            "id": "8",
+            "idMatch": "13",
+            "text": "across"
+        },
+        {
+            "id": "9",
+            "idMatch": "14",
+            "text": "about"
+        },
+        {
+            "id": "10",
+            "idMatch": "15",
+            "text": "being"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "11",
+            "idMatch": "6",
+            "text": "oranye"
+        },
+        {
+            "id": "12",
+            "idMatch": "7",
+            "text": "tidak pernah"
+        },
+        {
+            "id": "13",
+            "idMatch": "8",
+            "text": "di seberang"
+        },
+        {
+            "id": "14",
+            "idMatch": "9",
+            "text": "tentang"
+        },
+        {
+            "id": "15",
+            "idMatch": "10",
+            "text": "menjadi"
+        }
+    ]
+}

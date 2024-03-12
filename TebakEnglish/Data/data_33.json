@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "166",
+            "idMatch": "171",
+            "text": "badly"
+        },
+        {
+            "id": "167",
+            "idMatch": "172",
+            "text": "birthday"
+        },
+        {
+            "id": "168",
+            "idMatch": "173",
+            "text": "call"
+        },
+        {
+            "id": "169",
+            "idMatch": "174",
+            "text": "against"
+        },
+        {
+            "id": "170",
+            "idMatch": "175",
+            "text": "though"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "171",
+            "idMatch": "166",
+            "text": "buruk"
+        },
+        {
+            "id": "172",
+            "idMatch": "167",
+            "text": "ulang tahun"
+        },
+        {
+            "id": "173",
+            "idMatch": "168",
+            "text": "menelepon"
+        },
+        {
+            "id": "174",
+            "idMatch": "169",
+            "text": "melawan"
+        },
+        {
+            "id": "175",
+            "idMatch": "170",
+            "text": "meskipun"
+        }
+    ]
+}

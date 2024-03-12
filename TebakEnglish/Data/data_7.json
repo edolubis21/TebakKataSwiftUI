@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "36",
+            "idMatch": "41",
+            "text": "they"
+        },
+        {
+            "id": "37",
+            "idMatch": "42",
+            "text": "Good morning/afternoon/evening"
+        },
+        {
+            "id": "38",
+            "idMatch": "43",
+            "text": "hello"
+        },
+        {
+            "id": "39",
+            "idMatch": "44",
+            "text": "delicious"
+        },
+        {
+            "id": "40",
+            "idMatch": "45",
+            "text": "coffee"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "41",
+            "idMatch": "36",
+            "text": "mereka"
+        },
+        {
+            "id": "42",
+            "idMatch": "37",
+            "text": "Selamat pagi/siang/malam"
+        },
+        {
+            "id": "43",
+            "idMatch": "38",
+            "text": "halo"
+        },
+        {
+            "id": "44",
+            "idMatch": "39",
+            "text": "lezat"
+        },
+        {
+            "id": "45",
+            "idMatch": "40",
+            "text": "kopi"
+        }
+    ]
+}

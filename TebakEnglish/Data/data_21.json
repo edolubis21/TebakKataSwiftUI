@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "106",
+            "idMatch": "111",
+            "text": "same"
+        },
+        {
+            "id": "107",
+            "idMatch": "112",
+            "text": "even"
+        },
+        {
+            "id": "108",
+            "idMatch": "113",
+            "text": "down"
+        },
+        {
+            "id": "109",
+            "idMatch": "114",
+            "text": "wonder"
+        },
+        {
+            "id": "110",
+            "idMatch": "115",
+            "text": "hand"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "111",
+            "idMatch": "106",
+            "text": "sama"
+        },
+        {
+            "id": "112",
+            "idMatch": "107",
+            "text": "bahkan"
+        },
+        {
+            "id": "113",
+            "idMatch": "108",
+            "text": "turun"
+        },
+        {
+            "id": "114",
+            "idMatch": "109",
+            "text": "bertanya-tanya"
+        },
+        {
+            "id": "115",
+            "idMatch": "110",
+            "text": "tangan"
+        }
+    ]
+}

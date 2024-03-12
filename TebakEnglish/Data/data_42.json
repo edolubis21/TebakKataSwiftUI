@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "211",
+            "idMatch": "216",
+            "text": "after"
+        },
+        {
+            "id": "212",
+            "idMatch": "217",
+            "text": "mean"
+        },
+        {
+            "id": "213",
+            "idMatch": "218",
+            "text": "open"
+        },
+        {
+            "id": "214",
+            "idMatch": "219",
+            "text": "place"
+        },
+        {
+            "id": "215",
+            "idMatch": "220",
+            "text": "dance"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "216",
+            "idMatch": "211",
+            "text": "setelah"
+        },
+        {
+            "id": "217",
+            "idMatch": "212",
+            "text": "berarti"
+        },
+        {
+            "id": "218",
+            "idMatch": "213",
+            "text": "terbuka"
+        },
+        {
+            "id": "219",
+            "idMatch": "214",
+            "text": "tempat"
+        },
+        {
+            "id": "220",
+            "idMatch": "215",
+            "text": "menari"
+        }
+    ]
+}

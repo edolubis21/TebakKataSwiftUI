@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "201",
+            "idMatch": "206",
+            "text": "seem"
+        },
+        {
+            "id": "202",
+            "idMatch": "207",
+            "text": "goodbye"
+        },
+        {
+            "id": "203",
+            "idMatch": "208",
+            "text": "game"
+        },
+        {
+            "id": "204",
+            "idMatch": "209",
+            "text": "should"
+        },
+        {
+            "id": "205",
+            "idMatch": "210",
+            "text": "although"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "206",
+            "idMatch": "201",
+            "text": "tampak"
+        },
+        {
+            "id": "207",
+            "idMatch": "202",
+            "text": "selamat tinggal"
+        },
+        {
+            "id": "208",
+            "idMatch": "203",
+            "text": "permainan"
+        },
+        {
+            "id": "209",
+            "idMatch": "204",
+            "text": "harus"
+        },
+        {
+            "id": "210",
+            "idMatch": "205",
+            "text": "meskipun"
+        }
+    ]
+}

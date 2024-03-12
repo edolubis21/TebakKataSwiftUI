@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "341",
+            "idMatch": "346",
+            "text": "something"
+        },
+        {
+            "id": "342",
+            "idMatch": "347",
+            "text": "love"
+        },
+        {
+            "id": "343",
+            "idMatch": "348",
+            "text": "way"
+        },
+        {
+            "id": "344",
+            "idMatch": "349",
+            "text": "between"
+        },
+        {
+            "id": "345",
+            "idMatch": "350",
+            "text": "family"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "346",
+            "idMatch": "341",
+            "text": "sesuatu"
+        },
+        {
+            "id": "347",
+            "idMatch": "342",
+            "text": "mencintai"
+        },
+        {
+            "id": "348",
+            "idMatch": "343",
+            "text": "cara"
+        },
+        {
+            "id": "349",
+            "idMatch": "344",
+            "text": "di antara"
+        },
+        {
+            "id": "350",
+            "idMatch": "345",
+            "text": "keluarga"
+        }
+    ]
+}

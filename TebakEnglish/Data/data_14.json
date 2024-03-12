@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "71",
+            "idMatch": "76",
+            "text": "them"
+        },
+        {
+            "id": "72",
+            "idMatch": "77",
+            "text": "their"
+        },
+        {
+            "id": "73",
+            "idMatch": "78",
+            "text": "say"
+        },
+        {
+            "id": "74",
+            "idMatch": "79",
+            "text": "into"
+        },
+        {
+            "id": "75",
+            "idMatch": "80",
+            "text": "too"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "76",
+            "idMatch": "71",
+            "text": "mereka"
+        },
+        {
+            "id": "77",
+            "idMatch": "72",
+            "text": "mereka"
+        },
+        {
+            "id": "78",
+            "idMatch": "73",
+            "text": "berkata"
+        },
+        {
+            "id": "79",
+            "idMatch": "74",
+            "text": "ke dalam"
+        },
+        {
+            "id": "80",
+            "idMatch": "75",
+            "text": "juga"
+        }
+    ]
+}

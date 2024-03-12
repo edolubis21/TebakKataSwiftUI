@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "286",
+            "idMatch": "291",
+            "text": "famous"
+        },
+        {
+            "id": "287",
+            "idMatch": "292",
+            "text": "what"
+        },
+        {
+            "id": "288",
+            "idMatch": "293",
+            "text": "he"
+        },
+        {
+            "id": "289",
+            "idMatch": "294",
+            "text": "feel"
+        },
+        {
+            "id": "290",
+            "idMatch": "295",
+            "text": "down"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "291",
+            "idMatch": "286",
+            "text": "terkenal"
+        },
+        {
+            "id": "292",
+            "idMatch": "287",
+            "text": "apa"
+        },
+        {
+            "id": "293",
+            "idMatch": "288",
+            "text": "dia"
+        },
+        {
+            "id": "294",
+            "idMatch": "289",
+            "text": "merasa"
+        },
+        {
+            "id": "295",
+            "idMatch": "290",
+            "text": "bawah"
+        }
+    ]
+}

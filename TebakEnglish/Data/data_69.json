@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "346",
+            "idMatch": "351",
+            "text": "that"
+        },
+        {
+            "id": "347",
+            "idMatch": "352",
+            "text": "clothes"
+        },
+        {
+            "id": "348",
+            "idMatch": "353",
+            "text": "ever"
+        },
+        {
+            "id": "349",
+            "idMatch": "354",
+            "text": "each"
+        },
+        {
+            "id": "350",
+            "idMatch": "355",
+            "text": "green"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "351",
+            "idMatch": "346",
+            "text": "itu"
+        },
+        {
+            "id": "352",
+            "idMatch": "347",
+            "text": "pakaian"
+        },
+        {
+            "id": "353",
+            "idMatch": "348",
+            "text": "pernah"
+        },
+        {
+            "id": "354",
+            "idMatch": "349",
+            "text": "setiap"
+        },
+        {
+            "id": "355",
+            "idMatch": "350",
+            "text": "hijau"
+        }
+    ]
+}

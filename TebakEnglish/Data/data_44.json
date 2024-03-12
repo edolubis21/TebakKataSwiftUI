@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "221",
+            "idMatch": "226",
+            "text": "five"
+        },
+        {
+            "id": "222",
+            "idMatch": "227",
+            "text": "sure"
+        },
+        {
+            "id": "223",
+            "idMatch": "228",
+            "text": "cook"
+        },
+        {
+            "id": "224",
+            "idMatch": "229",
+            "text": "school"
+        },
+        {
+            "id": "225",
+            "idMatch": "230",
+            "text": "may"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "226",
+            "idMatch": "221",
+            "text": "lima"
+        },
+        {
+            "id": "227",
+            "idMatch": "222",
+            "text": "yakin"
+        },
+        {
+            "id": "228",
+            "idMatch": "223",
+            "text": "memasak"
+        },
+        {
+            "id": "229",
+            "idMatch": "224",
+            "text": "sekolah"
+        },
+        {
+            "id": "230",
+            "idMatch": "225",
+            "text": "mungkin"
+        }
+    ]
+}

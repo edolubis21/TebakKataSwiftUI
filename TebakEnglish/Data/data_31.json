@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "156",
+            "idMatch": "161",
+            "text": "take"
+        },
+        {
+            "id": "157",
+            "idMatch": "162",
+            "text": "then"
+        },
+        {
+            "id": "158",
+            "idMatch": "163",
+            "text": "How are you?"
+        },
+        {
+            "id": "159",
+            "idMatch": "164",
+            "text": "doctor"
+        },
+        {
+            "id": "160",
+            "idMatch": "165",
+            "text": "next"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "161",
+            "idMatch": "156",
+            "text": "mengambil"
+        },
+        {
+            "id": "162",
+            "idMatch": "157",
+            "text": "kemudian"
+        },
+        {
+            "id": "163",
+            "idMatch": "158",
+            "text": "Apa kabar?"
+        },
+        {
+            "id": "164",
+            "idMatch": "159",
+            "text": "dokter"
+        },
+        {
+            "id": "165",
+            "idMatch": "160",
+            "text": "berikutnya"
+        }
+    ]
+}

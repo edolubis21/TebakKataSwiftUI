@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "21",
+            "idMatch": "26",
+            "text": "important"
+        },
+        {
+            "id": "22",
+            "idMatch": "27",
+            "text": "when"
+        },
+        {
+            "id": "23",
+            "idMatch": "28",
+            "text": "why"
+        },
+        {
+            "id": "24",
+            "idMatch": "29",
+            "text": "finally"
+        },
+        {
+            "id": "25",
+            "idMatch": "30",
+            "text": "right"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "26",
+            "idMatch": "21",
+            "text": "penting"
+        },
+        {
+            "id": "27",
+            "idMatch": "22",
+            "text": "ketika"
+        },
+        {
+            "id": "28",
+            "idMatch": "23",
+            "text": "mengapa"
+        },
+        {
+            "id": "29",
+            "idMatch": "24",
+            "text": "akhirnya"
+        },
+        {
+            "id": "30",
+            "idMatch": "25",
+            "text": "kanan"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "11",
+            "idMatch": "16",
+            "text": "almost"
+        },
+        {
+            "id": "12",
+            "idMatch": "17",
+            "text": "computer"
+        },
+        {
+            "id": "13",
+            "idMatch": "18",
+            "text": "late"
+        },
+        {
+            "id": "14",
+            "idMatch": "19",
+            "text": "also"
+        },
+        {
+            "id": "15",
+            "idMatch": "20",
+            "text": "definitely"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "16",
+            "idMatch": "11",
+            "text": "hampir"
+        },
+        {
+            "id": "17",
+            "idMatch": "12",
+            "text": "komputer"
+        },
+        {
+            "id": "18",
+            "idMatch": "13",
+            "text": "terlambat"
+        },
+        {
+            "id": "19",
+            "idMatch": "14",
+            "text": "juga"
+        },
+        {
+            "id": "20",
+            "idMatch": "15",
+            "text": "pasti"
+        }
+    ]
+}

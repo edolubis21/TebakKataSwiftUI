@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "181",
+            "idMatch": "186",
+            "text": "a"
+        },
+        {
+            "id": "182",
+            "idMatch": "187",
+            "text": "good"
+        },
+        {
+            "id": "183",
+            "idMatch": "188",
+            "text": "drink"
+        },
+        {
+            "id": "184",
+            "idMatch": "189",
+            "text": "confident"
+        },
+        {
+            "id": "185",
+            "idMatch": "190",
+            "text": "country"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "186",
+            "idMatch": "181",
+            "text": "sebuah"
+        },
+        {
+            "id": "187",
+            "idMatch": "182",
+            "text": "baik"
+        },
+        {
+            "id": "188",
+            "idMatch": "183",
+            "text": "minum"
+        },
+        {
+            "id": "189",
+            "idMatch": "184",
+            "text": "percaya diri"
+        },
+        {
+            "id": "190",
+            "idMatch": "185",
+            "text": "negara"
+        }
+    ]
+}

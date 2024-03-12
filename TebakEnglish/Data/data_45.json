@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "226",
+            "idMatch": "231",
+            "text": "her"
+        },
+        {
+            "id": "227",
+            "idMatch": "232",
+            "text": "its"
+        },
+        {
+            "id": "228",
+            "idMatch": "233",
+            "text": "are"
+        },
+        {
+            "id": "229",
+            "idMatch": "234",
+            "text": "work"
+        },
+        {
+            "id": "230",
+            "idMatch": "235",
+            "text": "of"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "231",
+            "idMatch": "226",
+            "text": "dia"
+        },
+        {
+            "id": "232",
+            "idMatch": "227",
+            "text": "itu"
+        },
+        {
+            "id": "233",
+            "idMatch": "228",
+            "text": "adalah"
+        },
+        {
+            "id": "234",
+            "idMatch": "229",
+            "text": "pekerjaan"
+        },
+        {
+            "id": "235",
+            "idMatch": "230",
+            "text": "dari"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "176",
+            "idMatch": "181",
+            "text": "bring"
+        },
+        {
+            "id": "177",
+            "idMatch": "182",
+            "text": "listen"
+        },
+        {
+            "id": "178",
+            "idMatch": "183",
+            "text": "up"
+        },
+        {
+            "id": "179",
+            "idMatch": "184",
+            "text": "far"
+        },
+        {
+            "id": "180",
+            "idMatch": "185",
+            "text": "red"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "181",
+            "idMatch": "176",
+            "text": "membawa"
+        },
+        {
+            "id": "182",
+            "idMatch": "177",
+            "text": "mendengarkan"
+        },
+        {
+            "id": "183",
+            "idMatch": "178",
+            "text": "atas"
+        },
+        {
+            "id": "184",
+            "idMatch": "179",
+            "text": "jauh"
+        },
+        {
+            "id": "185",
+            "idMatch": "180",
+            "text": "merah"
+        }
+    ]
+}

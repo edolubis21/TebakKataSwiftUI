@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "111",
+            "idMatch": "116",
+            "text": "baby"
+        },
+        {
+            "id": "112",
+            "idMatch": "117",
+            "text": "What's your name?"
+        },
+        {
+            "id": "113",
+            "idMatch": "118",
+            "text": "buy"
+        },
+        {
+            "id": "114",
+            "idMatch": "119",
+            "text": "every"
+        },
+        {
+            "id": "115",
+            "idMatch": "120",
+            "text": "how"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "116",
+            "idMatch": "111",
+            "text": "bayi"
+        },
+        {
+            "id": "117",
+            "idMatch": "112",
+            "text": "Siapa nama Anda?"
+        },
+        {
+            "id": "118",
+            "idMatch": "113",
+            "text": "membeli"
+        },
+        {
+            "id": "119",
+            "idMatch": "114",
+            "text": "setiap"
+        },
+        {
+            "id": "120",
+            "idMatch": "115",
+            "text": "bagaimana"
+        }
+    ]
+}

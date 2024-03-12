@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "246",
+            "idMatch": "251",
+            "text": "find"
+        },
+        {
+            "id": "247",
+            "idMatch": "252",
+            "text": "see"
+        },
+        {
+            "id": "248",
+            "idMatch": "253",
+            "text": "another"
+        },
+        {
+            "id": "249",
+            "idMatch": "254",
+            "text": "beautiful"
+        },
+        {
+            "id": "250",
+            "idMatch": "255",
+            "text": "car"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "251",
+            "idMatch": "246",
+            "text": "menemukan"
+        },
+        {
+            "id": "252",
+            "idMatch": "247",
+            "text": "melihat"
+        },
+        {
+            "id": "253",
+            "idMatch": "248",
+            "text": "lain"
+        },
+        {
+            "id": "254",
+            "idMatch": "249",
+            "text": "cantik"
+        },
+        {
+            "id": "255",
+            "idMatch": "250",
+            "text": "mobil"
+        }
+    ]
+}

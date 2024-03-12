@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "26",
+            "idMatch": "31",
+            "text": "business"
+        },
+        {
+            "id": "27",
+            "idMatch": "32",
+            "text": "early"
+        },
+        {
+            "id": "28",
+            "idMatch": "33",
+            "text": "would"
+        },
+        {
+            "id": "29",
+            "idMatch": "34",
+            "text": "man"
+        },
+        {
+            "id": "30",
+            "idMatch": "35",
+            "text": "or"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "31",
+            "idMatch": "26",
+            "text": "bisnis"
+        },
+        {
+            "id": "32",
+            "idMatch": "27",
+            "text": "awal"
+        },
+        {
+            "id": "33",
+            "idMatch": "28",
+            "text": "akan"
+        },
+        {
+            "id": "34",
+            "idMatch": "29",
+            "text": "manusia"
+        },
+        {
+            "id": "35",
+            "idMatch": "30",
+            "text": "atau"
+        }
+    ]
+}

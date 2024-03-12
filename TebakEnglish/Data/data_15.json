@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "76",
+            "idMatch": "81",
+            "text": "interesting"
+        },
+        {
+            "id": "77",
+            "idMatch": "82",
+            "text": "near"
+        },
+        {
+            "id": "78",
+            "idMatch": "83",
+            "text": "comfortable"
+        },
+        {
+            "id": "79",
+            "idMatch": "84",
+            "text": "came"
+        },
+        {
+            "id": "80",
+            "idMatch": "85",
+            "text": "below"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "81",
+            "idMatch": "76",
+            "text": "menarik"
+        },
+        {
+            "id": "82",
+            "idMatch": "77",
+            "text": "dekat"
+        },
+        {
+            "id": "83",
+            "idMatch": "78",
+            "text": "nyaman"
+        },
+        {
+            "id": "84",
+            "idMatch": "79",
+            "text": "datang"
+        },
+        {
+            "id": "85",
+            "idMatch": "80",
+            "text": "di bawah"
+        }
+    ]
+}

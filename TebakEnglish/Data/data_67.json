@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "336",
+            "idMatch": "341",
+            "text": "yellow"
+        },
+        {
+            "id": "337",
+            "idMatch": "342",
+            "text": "rarely"
+        },
+        {
+            "id": "338",
+            "idMatch": "343",
+            "text": "where"
+        },
+        {
+            "id": "339",
+            "idMatch": "344",
+            "text": "once"
+        },
+        {
+            "id": "340",
+            "idMatch": "345",
+            "text": "nine"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "341",
+            "idMatch": "336",
+            "text": "kuning"
+        },
+        {
+            "id": "342",
+            "idMatch": "337",
+            "text": "jarang"
+        },
+        {
+            "id": "343",
+            "idMatch": "338",
+            "text": "di mana"
+        },
+        {
+            "id": "344",
+            "idMatch": "339",
+            "text": "sekali"
+        },
+        {
+            "id": "345",
+            "idMatch": "340",
+            "text": "sembilan"
+        }
+    ]
+}

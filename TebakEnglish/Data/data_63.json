@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "316",
+            "idMatch": "321",
+            "text": "two"
+        },
+        {
+            "id": "317",
+            "idMatch": "322",
+            "text": "together"
+        },
+        {
+            "id": "318",
+            "idMatch": "323",
+            "text": "believe"
+        },
+        {
+            "id": "319",
+            "idMatch": "324",
+            "text": "learn"
+        },
+        {
+            "id": "320",
+            "idMatch": "325",
+            "text": "last"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "321",
+            "idMatch": "316",
+            "text": "dua"
+        },
+        {
+            "id": "322",
+            "idMatch": "317",
+            "text": "bersama"
+        },
+        {
+            "id": "323",
+            "idMatch": "318",
+            "text": "percaya"
+        },
+        {
+            "id": "324",
+            "idMatch": "319",
+            "text": "belajar"
+        },
+        {
+            "id": "325",
+            "idMatch": "320",
+            "text": "terakhir"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "46",
+            "idMatch": "51",
+            "text": "ball"
+        },
+        {
+            "id": "47",
+            "idMatch": "52",
+            "text": "above"
+        },
+        {
+            "id": "48",
+            "idMatch": "53",
+            "text": "Can I...?"
+        },
+        {
+            "id": "49",
+            "idMatch": "54",
+            "text": "big"
+        },
+        {
+            "id": "50",
+            "idMatch": "55",
+            "text": "instead"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "51",
+            "idMatch": "46",
+            "text": "bola"
+        },
+        {
+            "id": "52",
+            "idMatch": "47",
+            "text": "di atas"
+        },
+        {
+            "id": "53",
+            "idMatch": "48",
+            "text": "Bolehkah saya...?"
+        },
+        {
+            "id": "54",
+            "idMatch": "49",
+            "text": "besar"
+        },
+        {
+            "id": "55",
+            "idMatch": "50",
+            "text": "sebaliknya"
+        }
+    ]
+}

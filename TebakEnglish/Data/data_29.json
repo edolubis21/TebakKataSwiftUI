@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "146",
+            "idMatch": "151",
+            "text": "had"
+        },
+        {
+            "id": "147",
+            "idMatch": "152",
+            "text": "quickly"
+        },
+        {
+            "id": "148",
+            "idMatch": "153",
+            "text": "zoo"
+        },
+        {
+            "id": "149",
+            "idMatch": "154",
+            "text": "toward"
+        },
+        {
+            "id": "150",
+            "idMatch": "155",
+            "text": "afraid"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "151",
+            "idMatch": "146",
+            "text": "memiliki"
+        },
+        {
+            "id": "152",
+            "idMatch": "147",
+            "text": "cepat"
+        },
+        {
+            "id": "153",
+            "idMatch": "148",
+            "text": "kebun binatang"
+        },
+        {
+            "id": "154",
+            "idMatch": "149",
+            "text": "ke arah"
+        },
+        {
+            "id": "155",
+            "idMatch": "150",
+            "text": "takut"
+        }
+    ]
+}

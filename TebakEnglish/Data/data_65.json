@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "326",
+            "idMatch": "331",
+            "text": "all"
+        },
+        {
+            "id": "327",
+            "idMatch": "332",
+            "text": "from"
+        },
+        {
+            "id": "328",
+            "idMatch": "333",
+            "text": "were"
+        },
+        {
+            "id": "329",
+            "idMatch": "334",
+            "text": "sometimes"
+        },
+        {
+            "id": "330",
+            "idMatch": "335",
+            "text": "day"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "331",
+            "idMatch": "326",
+            "text": "semua"
+        },
+        {
+            "id": "332",
+            "idMatch": "327",
+            "text": "dari"
+        },
+        {
+            "id": "333",
+            "idMatch": "328",
+            "text": "adalah"
+        },
+        {
+            "id": "334",
+            "idMatch": "329",
+            "text": "kadang-kadang"
+        },
+        {
+            "id": "335",
+            "idMatch": "330",
+            "text": "hari"
+        }
+    ]
+}

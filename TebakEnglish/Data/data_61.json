@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "306",
+            "idMatch": "311",
+            "text": "do"
+        },
+        {
+            "id": "307",
+            "idMatch": "312",
+            "text": "thank you"
+        },
+        {
+            "id": "308",
+            "idMatch": "313",
+            "text": "probably"
+        },
+        {
+            "id": "309",
+            "idMatch": "314",
+            "text": "we"
+        },
+        {
+            "id": "310",
+            "idMatch": "315",
+            "text": "with"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "311",
+            "idMatch": "306",
+            "text": "melakukan"
+        },
+        {
+            "id": "312",
+            "idMatch": "307",
+            "text": "terima kasih"
+        },
+        {
+            "id": "313",
+            "idMatch": "308",
+            "text": "mungkin"
+        },
+        {
+            "id": "314",
+            "idMatch": "309",
+            "text": "kami"
+        },
+        {
+            "id": "315",
+            "idMatch": "310",
+            "text": "dengan"
+        }
+    ]
+}

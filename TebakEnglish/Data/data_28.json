@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "141",
+            "idMatch": "146",
+            "text": "any"
+        },
+        {
+            "id": "142",
+            "idMatch": "147",
+            "text": "watch"
+        },
+        {
+            "id": "143",
+            "idMatch": "148",
+            "text": "can"
+        },
+        {
+            "id": "144",
+            "idMatch": "149",
+            "text": "want"
+        },
+        {
+            "id": "145",
+            "idMatch": "150",
+            "text": "for"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "146",
+            "idMatch": "141",
+            "text": "anya"
+        },
+        {
+            "id": "147",
+            "idMatch": "142",
+            "text": "menonton"
+        },
+        {
+            "id": "148",
+            "idMatch": "143",
+            "text": "bisa"
+        },
+        {
+            "id": "149",
+            "idMatch": "144",
+            "text": "menginginkan"
+        },
+        {
+            "id": "150",
+            "idMatch": "145",
+            "text": "untuk"
+        }
+    ]
+}

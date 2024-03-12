@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "136",
+            "idMatch": "141",
+            "text": "which"
+        },
+        {
+            "id": "137",
+            "idMatch": "142",
+            "text": "eat"
+        },
+        {
+            "id": "138",
+            "idMatch": "143",
+            "text": "read"
+        },
+        {
+            "id": "139",
+            "idMatch": "144",
+            "text": "no"
+        },
+        {
+            "id": "140",
+            "idMatch": "145",
+            "text": "here"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "141",
+            "idMatch": "136",
+            "text": "yang"
+        },
+        {
+            "id": "142",
+            "idMatch": "137",
+            "text": "makan"
+        },
+        {
+            "id": "143",
+            "idMatch": "138",
+            "text": "membaca"
+        },
+        {
+            "id": "144",
+            "idMatch": "139",
+            "text": "tidak"
+        },
+        {
+            "id": "145",
+            "idMatch": "140",
+            "text": "di sini"
+        }
+    ]
+}

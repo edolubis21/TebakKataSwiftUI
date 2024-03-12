@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "101",
+            "idMatch": "106",
+            "text": "creative"
+        },
+        {
+            "id": "102",
+            "idMatch": "107",
+            "text": "leave"
+        },
+        {
+            "id": "103",
+            "idMatch": "108",
+            "text": "ten"
+        },
+        {
+            "id": "104",
+            "idMatch": "109",
+            "text": "yes"
+        },
+        {
+            "id": "105",
+            "idMatch": "110",
+            "text": "use"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "106",
+            "idMatch": "101",
+            "text": "kreatif"
+        },
+        {
+            "id": "107",
+            "idMatch": "102",
+            "text": "meninggalkan"
+        },
+        {
+            "id": "108",
+            "idMatch": "103",
+            "text": "sepuluh"
+        },
+        {
+            "id": "109",
+            "idMatch": "104",
+            "text": "ya"
+        },
+        {
+            "id": "110",
+            "idMatch": "105",
+            "text": "menggunakan"
+        }
+    ]
+}

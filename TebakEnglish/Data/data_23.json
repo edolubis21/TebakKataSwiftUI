@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "116",
+            "idMatch": "121",
+            "text": "will"
+        },
+        {
+            "id": "117",
+            "idMatch": "122",
+            "text": "house"
+        },
+        {
+            "id": "118",
+            "idMatch": "123",
+            "text": "first"
+        },
+        {
+            "id": "119",
+            "idMatch": "124",
+            "text": "is"
+        },
+        {
+            "id": "120",
+            "idMatch": "125",
+            "text": "You're welcome."
+        }
+    ],
+    "lefts": [
+        {
+            "id": "121",
+            "idMatch": "116",
+            "text": "akan"
+        },
+        {
+            "id": "122",
+            "idMatch": "117",
+            "text": "rumah"
+        },
+        {
+            "id": "123",
+            "idMatch": "118",
+            "text": "pertama"
+        },
+        {
+            "id": "124",
+            "idMatch": "119",
+            "text": "adalah"
+        },
+        {
+            "id": "125",
+            "idMatch": "120",
+            "text": "Sama-sama."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "196",
+            "idMatch": "201",
+            "text": "bank"
+        },
+        {
+            "id": "197",
+            "idMatch": "202",
+            "text": "colour"
+        },
+        {
+            "id": "198",
+            "idMatch": "203",
+            "text": "yet"
+        },
+        {
+            "id": "199",
+            "idMatch": "204",
+            "text": "the"
+        },
+        {
+            "id": "200",
+            "idMatch": "205",
+            "text": "year"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "201",
+            "idMatch": "196",
+            "text": "bank"
+        },
+        {
+            "id": "202",
+            "idMatch": "197",
+            "text": "warna"
+        },
+        {
+            "id": "203",
+            "idMatch": "198",
+            "text": "belum"
+        },
+        {
+            "id": "204",
+            "idMatch": "199",
+            "text": "itu"
+        },
+        {
+            "id": "205",
+            "idMatch": "200",
+            "text": "tahun"
+        }
+    ]
+}

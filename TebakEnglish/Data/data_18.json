@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "91",
+            "idMatch": "96",
+            "text": "only"
+        },
+        {
+            "id": "92",
+            "idMatch": "97",
+            "text": "time"
+        },
+        {
+            "id": "93",
+            "idMatch": "98",
+            "text": "so"
+        },
+        {
+            "id": "94",
+            "idMatch": "99",
+            "text": "but"
+        },
+        {
+            "id": "95",
+            "idMatch": "100",
+            "text": "eight"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "96",
+            "idMatch": "91",
+            "text": "hanya"
+        },
+        {
+            "id": "97",
+            "idMatch": "92",
+            "text": "waktu"
+        },
+        {
+            "id": "98",
+            "idMatch": "93",
+            "text": "jadi"
+        },
+        {
+            "id": "99",
+            "idMatch": "94",
+            "text": "tetapi"
+        },
+        {
+            "id": "100",
+            "idMatch": "95",
+            "text": "delapan"
+        }
+    ]
+}

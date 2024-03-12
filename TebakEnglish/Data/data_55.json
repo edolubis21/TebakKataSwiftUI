@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "276",
+            "idMatch": "281",
+            "text": "under"
+        },
+        {
+            "id": "277",
+            "idMatch": "282",
+            "text": "air"
+        },
+        {
+            "id": "278",
+            "idMatch": "283",
+            "text": "behind"
+        },
+        {
+            "id": "279",
+            "idMatch": "284",
+            "text": "idea"
+        },
+        {
+            "id": "280",
+            "idMatch": "285",
+            "text": "need"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "281",
+            "idMatch": "276",
+            "text": "di bawah"
+        },
+        {
+            "id": "282",
+            "idMatch": "277",
+            "text": "udara"
+        },
+        {
+            "id": "283",
+            "idMatch": "278",
+            "text": "di belakang"
+        },
+        {
+            "id": "284",
+            "idMatch": "279",
+            "text": "ide"
+        },
+        {
+            "id": "285",
+            "idMatch": "280",
+            "text": "membutuhkan"
+        }
+    ]
+}

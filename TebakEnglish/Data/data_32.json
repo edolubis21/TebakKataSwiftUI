@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "161",
+            "idMatch": "166",
+            "text": "got"
+        },
+        {
+            "id": "162",
+            "idMatch": "167",
+            "text": "food"
+        },
+        {
+            "id": "163",
+            "idMatch": "168",
+            "text": "catch"
+        },
+        {
+            "id": "164",
+            "idMatch": "169",
+            "text": "look"
+        },
+        {
+            "id": "165",
+            "idMatch": "170",
+            "text": "I understand"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "166",
+            "idMatch": "161",
+            "text": "mendapat"
+        },
+        {
+            "id": "167",
+            "idMatch": "162",
+            "text": "makanan"
+        },
+        {
+            "id": "168",
+            "idMatch": "163",
+            "text": "menangkap"
+        },
+        {
+            "id": "169",
+            "idMatch": "164",
+            "text": "melihat"
+        },
+        {
+            "id": "170",
+            "idMatch": "165",
+            "text": "saya mengerti"
+        }
+    ]
+}

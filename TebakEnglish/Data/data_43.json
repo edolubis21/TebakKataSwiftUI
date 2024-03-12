@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "216",
+            "idMatch": "221",
+            "text": "brown"
+        },
+        {
+            "id": "217",
+            "idMatch": "222",
+            "text": "call"
+        },
+        {
+            "id": "218",
+            "idMatch": "223",
+            "text": "alone"
+        },
+        {
+            "id": "219",
+            "idMatch": "224",
+            "text": "often"
+        },
+        {
+            "id": "220",
+            "idMatch": "225",
+            "text": "still"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "221",
+            "idMatch": "216",
+            "text": "coklat"
+        },
+        {
+            "id": "222",
+            "idMatch": "217",
+            "text": "memanggil"
+        },
+        {
+            "id": "223",
+            "idMatch": "218",
+            "text": "sendirian"
+        },
+        {
+            "id": "224",
+            "idMatch": "219",
+            "text": "sering"
+        },
+        {
+            "id": "225",
+            "idMatch": "220",
+            "text": "masih"
+        }
+    ]
+}

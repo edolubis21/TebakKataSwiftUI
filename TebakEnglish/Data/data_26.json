@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "131",
+            "idMatch": "136",
+            "text": "Can you help me?"
+        },
+        {
+            "id": "132",
+            "idMatch": "137",
+            "text": "answer"
+        },
+        {
+            "id": "133",
+            "idMatch": "138",
+            "text": "I'm sorry."
+        },
+        {
+            "id": "134",
+            "idMatch": "139",
+            "text": "six"
+        },
+        {
+            "id": "135",
+            "idMatch": "140",
+            "text": "who"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "136",
+            "idMatch": "131",
+            "text": "Bisakah Anda membantu saya?"
+        },
+        {
+            "id": "137",
+            "idMatch": "132",
+            "text": "jawaban"
+        },
+        {
+            "id": "138",
+            "idMatch": "133",
+            "text": "Maaf."
+        },
+        {
+            "id": "139",
+            "idMatch": "134",
+            "text": "enam"
+        },
+        {
+            "id": "140",
+            "idMatch": "135",
+            "text": "siapa"
+        }
+    ]
+}

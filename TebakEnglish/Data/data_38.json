@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "191",
+            "idMatch": "196",
+            "text": "clever"
+        },
+        {
+            "id": "192",
+            "idMatch": "197",
+            "text": "four"
+        },
+        {
+            "id": "193",
+            "idMatch": "198",
+            "text": "think"
+        },
+        {
+            "id": "194",
+            "idMatch": "199",
+            "text": "develop"
+        },
+        {
+            "id": "195",
+            "idMatch": "200",
+            "text": "different"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "196",
+            "idMatch": "191",
+            "text": "pintar"
+        },
+        {
+            "id": "197",
+            "idMatch": "192",
+            "text": "empat"
+        },
+        {
+            "id": "198",
+            "idMatch": "193",
+            "text": "berpikir"
+        },
+        {
+            "id": "199",
+            "idMatch": "194",
+            "text": "mengembangkan"
+        },
+        {
+            "id": "200",
+            "idMatch": "195",
+            "text": "berbeda"
+        }
+    ]
+}

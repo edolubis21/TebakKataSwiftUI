@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "151",
+            "idMatch": "156",
+            "text": "beside"
+        },
+        {
+            "id": "152",
+            "idMatch": "157",
+            "text": "conversation"
+        },
+        {
+            "id": "153",
+            "idMatch": "158",
+            "text": "cut"
+        },
+        {
+            "id": "154",
+            "idMatch": "159",
+            "text": "woman"
+        },
+        {
+            "id": "155",
+            "idMatch": "160",
+            "text": "funny"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "156",
+            "idMatch": "151",
+            "text": "di samping"
+        },
+        {
+            "id": "157",
+            "idMatch": "152",
+            "text": "percakapan"
+        },
+        {
+            "id": "158",
+            "idMatch": "153",
+            "text": "memotong"
+        },
+        {
+            "id": "159",
+            "idMatch": "154",
+            "text": "wanita"
+        },
+        {
+            "id": "160",
+            "idMatch": "155",
+            "text": "lucu"
+        }
+    ]
+}

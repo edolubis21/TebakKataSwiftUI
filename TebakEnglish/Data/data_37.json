@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "186",
+            "idMatch": "191",
+            "text": "an"
+        },
+        {
+            "id": "187",
+            "idMatch": "192",
+            "text": "those"
+        },
+        {
+            "id": "188",
+            "idMatch": "193",
+            "text": "life"
+        },
+        {
+            "id": "189",
+            "idMatch": "194",
+            "text": "sad"
+        },
+        {
+            "id": "190",
+            "idMatch": "195",
+            "text": "one"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "191",
+            "idMatch": "186",
+            "text": "sebuah"
+        },
+        {
+            "id": "192",
+            "idMatch": "187",
+            "text": "itu"
+        },
+        {
+            "id": "193",
+            "idMatch": "188",
+            "text": "hidup"
+        },
+        {
+            "id": "194",
+            "idMatch": "189",
+            "text": "sedih"
+        },
+        {
+            "id": "195",
+            "idMatch": "190",
+            "text": "satu"
+        }
+    ]
+}

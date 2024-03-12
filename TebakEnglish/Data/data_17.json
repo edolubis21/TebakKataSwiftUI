@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "86",
+            "idMatch": "91",
+            "text": "true"
+        },
+        {
+            "id": "87",
+            "idMatch": "92",
+            "text": "since"
+        },
+        {
+            "id": "88",
+            "idMatch": "93",
+            "text": "careful"
+        },
+        {
+            "id": "89",
+            "idMatch": "94",
+            "text": "back"
+        },
+        {
+            "id": "90",
+            "idMatch": "95",
+            "text": "your"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "91",
+            "idMatch": "86",
+            "text": "benar"
+        },
+        {
+            "id": "92",
+            "idMatch": "87",
+            "text": "sejak"
+        },
+        {
+            "id": "93",
+            "idMatch": "88",
+            "text": "hati-hati"
+        },
+        {
+            "id": "94",
+            "idMatch": "89",
+            "text": "kembali"
+        },
+        {
+            "id": "95",
+            "idMatch": "90",
+            "text": "kamu"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "31",
+            "idMatch": "36",
+            "text": "end"
+        },
+        {
+            "id": "32",
+            "idMatch": "37",
+            "text": "such"
+        },
+        {
+            "id": "33",
+            "idMatch": "38",
+            "text": "question"
+        },
+        {
+            "id": "34",
+            "idMatch": "39",
+            "text": "animal"
+        },
+        {
+            "id": "35",
+            "idMatch": "40",
+            "text": "along"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "36",
+            "idMatch": "31",
+            "text": "akhir"
+        },
+        {
+            "id": "37",
+            "idMatch": "32",
+            "text": "seperti"
+        },
+        {
+            "id": "38",
+            "idMatch": "33",
+            "text": "pertanyaan"
+        },
+        {
+            "id": "39",
+            "idMatch": "34",
+            "text": "binatang"
+        },
+        {
+            "id": "40",
+            "idMatch": "35",
+            "text": "di sepanjang"
+        }
+    ]
+}

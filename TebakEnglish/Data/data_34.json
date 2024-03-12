@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "171",
+            "idMatch": "176",
+            "text": "said"
+        },
+        {
+            "id": "172",
+            "idMatch": "177",
+            "text": "difficult"
+        },
+        {
+            "id": "173",
+            "idMatch": "178",
+            "text": "off"
+        },
+        {
+            "id": "174",
+            "idMatch": "179",
+            "text": "go"
+        },
+        {
+            "id": "175",
+            "idMatch": "180",
+            "text": "seven"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "176",
+            "idMatch": "171",
+            "text": "berkata"
+        },
+        {
+            "id": "177",
+            "idMatch": "172",
+            "text": "sulit"
+        },
+        {
+            "id": "178",
+            "idMatch": "173",
+            "text": "dari"
+        },
+        {
+            "id": "179",
+            "idMatch": "174",
+            "text": "pergi"
+        },
+        {
+            "id": "180",
+            "idMatch": "175",
+            "text": "tujuh"
+        }
+    ]
+}

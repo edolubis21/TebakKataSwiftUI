@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "266",
+            "idMatch": "271",
+            "text": "out"
+        },
+        {
+            "id": "267",
+            "idMatch": "272",
+            "text": "already"
+        },
+        {
+            "id": "268",
+            "idMatch": "273",
+            "text": "usually"
+        },
+        {
+            "id": "269",
+            "idMatch": "274",
+            "text": "hot"
+        },
+        {
+            "id": "270",
+            "idMatch": "275",
+            "text": "Excuse me"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "271",
+            "idMatch": "266",
+            "text": "keluar"
+        },
+        {
+            "id": "272",
+            "idMatch": "267",
+            "text": "sudah"
+        },
+        {
+            "id": "273",
+            "idMatch": "268",
+            "text": "biasanya"
+        },
+        {
+            "id": "274",
+            "idMatch": "269",
+            "text": "panas"
+        },
+        {
+            "id": "275",
+            "idMatch": "270",
+            "text": "Permisi"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "61",
+            "idMatch": "66",
+            "text": "angry"
+        },
+        {
+            "id": "62",
+            "idMatch": "67",
+            "text": "as"
+        },
+        {
+            "id": "63",
+            "idMatch": "68",
+            "text": "there"
+        },
+        {
+            "id": "64",
+            "idMatch": "69",
+            "text": "answer"
+        },
+        {
+            "id": "65",
+            "idMatch": "70",
+            "text": "because"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "66",
+            "idMatch": "61",
+            "text": "marah"
+        },
+        {
+            "id": "67",
+            "idMatch": "62",
+            "text": "sebagai"
+        },
+        {
+            "id": "68",
+            "idMatch": "63",
+            "text": "di sana"
+        },
+        {
+            "id": "69",
+            "idMatch": "64",
+            "text": "menjawab"
+        },
+        {
+            "id": "70",
+            "idMatch": "65",
+            "text": "karena"
+        }
+    ]
+}

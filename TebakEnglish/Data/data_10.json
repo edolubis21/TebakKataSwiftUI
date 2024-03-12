@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "51",
+            "idMatch": "56",
+            "text": "Thank you for your help."
+        },
+        {
+            "id": "52",
+            "idMatch": "57",
+            "text": "get"
+        },
+        {
+            "id": "53",
+            "idMatch": "58",
+            "text": "old"
+        },
+        {
+            "id": "54",
+            "idMatch": "59",
+            "text": "just"
+        },
+        {
+            "id": "55",
+            "idMatch": "60",
+            "text": "Nice to meet you."
+        }
+    ],
+    "lefts": [
+        {
+            "id": "56",
+            "idMatch": "51",
+            "text": "Terima kasih atas bantuan Anda."
+        },
+        {
+            "id": "57",
+            "idMatch": "52",
+            "text": "mendapatkan"
+        },
+        {
+            "id": "58",
+            "idMatch": "53",
+            "text": "tua"
+        },
+        {
+            "id": "59",
+            "idMatch": "54",
+            "text": "hanya"
+        },
+        {
+            "id": "60",
+            "idMatch": "55",
+            "text": "Senang bertemu Anda."
+        }
+    ]
+}

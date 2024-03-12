@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "126",
+            "idMatch": "131",
+            "text": "work"
+        },
+        {
+            "id": "127",
+            "idMatch": "132",
+            "text": "again"
+        },
+        {
+            "id": "128",
+            "idMatch": "133",
+            "text": "black"
+        },
+        {
+            "id": "129",
+            "idMatch": "134",
+            "text": "towards"
+        },
+        {
+            "id": "130",
+            "idMatch": "135",
+            "text": "clean"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "131",
+            "idMatch": "126",
+            "text": "bekerja"
+        },
+        {
+            "id": "132",
+            "idMatch": "127",
+            "text": "lagi"
+        },
+        {
+            "id": "133",
+            "idMatch": "128",
+            "text": "hitam"
+        },
+        {
+            "id": "134",
+            "idMatch": "129",
+            "text": "ke arah"
+        },
+        {
+            "id": "135",
+            "idMatch": "130",
+            "text": "bersih"
+        }
+    ]
+}

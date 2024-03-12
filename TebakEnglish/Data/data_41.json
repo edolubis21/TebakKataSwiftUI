@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "206",
+            "idMatch": "211",
+            "text": "three"
+        },
+        {
+            "id": "207",
+            "idMatch": "212",
+            "text": "by"
+        },
+        {
+            "id": "208",
+            "idMatch": "213",
+            "text": "you're welcome"
+        },
+        {
+            "id": "209",
+            "idMatch": "214",
+            "text": "sleep"
+        },
+        {
+            "id": "210",
+            "idMatch": "215",
+            "text": "always"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "211",
+            "idMatch": "206",
+            "text": "tiga"
+        },
+        {
+            "id": "212",
+            "idMatch": "207",
+            "text": "oleh"
+        },
+        {
+            "id": "213",
+            "idMatch": "208",
+            "text": "sama-sama"
+        },
+        {
+            "id": "214",
+            "idMatch": "209",
+            "text": "tidur"
+        },
+        {
+            "id": "215",
+            "idMatch": "210",
+            "text": "selalu"
+        }
+    ]
+}

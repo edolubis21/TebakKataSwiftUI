@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "81",
+            "idMatch": "86",
+            "text": "his"
+        },
+        {
+            "id": "82",
+            "idMatch": "87",
+            "text": "except"
+        },
+        {
+            "id": "83",
+            "idMatch": "88",
+            "text": "carefully"
+        },
+        {
+            "id": "84",
+            "idMatch": "89",
+            "text": "over"
+        },
+        {
+            "id": "85",
+            "idMatch": "90",
+            "text": "among"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "86",
+            "idMatch": "81",
+            "text": "dia"
+        },
+        {
+            "id": "87",
+            "idMatch": "82",
+            "text": "kecuali"
+        },
+        {
+            "id": "88",
+            "idMatch": "83",
+            "text": "hati-hati"
+        },
+        {
+            "id": "89",
+            "idMatch": "84",
+            "text": "atas"
+        },
+        {
+            "id": "90",
+            "idMatch": "85",
+            "text": "di antara"
+        }
+    ]
+}

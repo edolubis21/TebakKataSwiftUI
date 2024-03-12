@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "256",
+            "idMatch": "261",
+            "text": "money"
+        },
+        {
+            "id": "257",
+            "idMatch": "262",
+            "text": "if"
+        },
+        {
+            "id": "258",
+            "idMatch": "263",
+            "text": "be"
+        },
+        {
+            "id": "259",
+            "idMatch": "264",
+            "text": "start"
+        },
+        {
+            "id": "260",
+            "idMatch": "265",
+            "text": "these"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "261",
+            "idMatch": "256",
+            "text": "uang"
+        },
+        {
+            "id": "262",
+            "idMatch": "257",
+            "text": "jika"
+        },
+        {
+            "id": "263",
+            "idMatch": "258",
+            "text": "menjadi"
+        },
+        {
+            "id": "264",
+            "idMatch": "259",
+            "text": "memulai"
+        },
+        {
+            "id": "265",
+            "idMatch": "260",
+            "text": "ini"
+        }
+    ]
+}

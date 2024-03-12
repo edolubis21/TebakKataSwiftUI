@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "231",
+            "idMatch": "236",
+            "text": "other"
+        },
+        {
+            "id": "232",
+            "idMatch": "237",
+            "text": "very"
+        },
+        {
+            "id": "233",
+            "idMatch": "238",
+            "text": "in"
+        },
+        {
+            "id": "234",
+            "idMatch": "239",
+            "text": "tell"
+        },
+        {
+            "id": "235",
+            "idMatch": "240",
+            "text": "hospital"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "236",
+            "idMatch": "231",
+            "text": "lain"
+        },
+        {
+            "id": "237",
+            "idMatch": "232",
+            "text": "sangat"
+        },
+        {
+            "id": "238",
+            "idMatch": "233",
+            "text": "di"
+        },
+        {
+            "id": "239",
+            "idMatch": "234",
+            "text": "memberitahu"
+        },
+        {
+            "id": "240",
+            "idMatch": "235",
+            "text": "rumah sakit"
+        }
+    ]
+}

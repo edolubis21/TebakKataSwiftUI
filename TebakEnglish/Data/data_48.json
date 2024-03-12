@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "241",
+            "idMatch": "246",
+            "text": "expensive"
+        },
+        {
+            "id": "242",
+            "idMatch": "247",
+            "text": "talk"
+        },
+        {
+            "id": "243",
+            "idMatch": "248",
+            "text": "blue"
+        },
+        {
+            "id": "244",
+            "idMatch": "249",
+            "text": "person"
+        },
+        {
+            "id": "245",
+            "idMatch": "250",
+            "text": "through"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "246",
+            "idMatch": "241",
+            "text": "mahal"
+        },
+        {
+            "id": "247",
+            "idMatch": "242",
+            "text": "berbicara"
+        },
+        {
+            "id": "248",
+            "idMatch": "243",
+            "text": "biru"
+        },
+        {
+            "id": "249",
+            "idMatch": "244",
+            "text": "orang"
+        },
+        {
+            "id": "250",
+            "idMatch": "245",
+            "text": "melalui"
+        }
+    ]
+}

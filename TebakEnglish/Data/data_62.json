@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "311",
+            "idMatch": "316",
+            "text": "long"
+        },
+        {
+            "id": "312",
+            "idMatch": "317",
+            "text": "small"
+        },
+        {
+            "id": "313",
+            "idMatch": "318",
+            "text": "have"
+        },
+        {
+            "id": "314",
+            "idMatch": "319",
+            "text": "bad"
+        },
+        {
+            "id": "315",
+            "idMatch": "320",
+            "text": "like"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "316",
+            "idMatch": "311",
+            "text": "panjang"
+        },
+        {
+            "id": "317",
+            "idMatch": "312",
+            "text": "kecil"
+        },
+        {
+            "id": "318",
+            "idMatch": "313",
+            "text": "memiliki"
+        },
+        {
+            "id": "319",
+            "idMatch": "314",
+            "text": "buruk"
+        },
+        {
+            "id": "320",
+            "idMatch": "315",
+            "text": "seperti"
+        }
+    ]
+}

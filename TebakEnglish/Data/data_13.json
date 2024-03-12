@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "66",
+            "idMatch": "71",
+            "text": "make"
+        },
+        {
+            "id": "67",
+            "idMatch": "72",
+            "text": "I don't understand"
+        },
+        {
+            "id": "68",
+            "idMatch": "73",
+            "text": "soon"
+        },
+        {
+            "id": "69",
+            "idMatch": "74",
+            "text": "word"
+        },
+        {
+            "id": "70",
+            "idMatch": "75",
+            "text": "than"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "71",
+            "idMatch": "66",
+            "text": "membuat"
+        },
+        {
+            "id": "72",
+            "idMatch": "67",
+            "text": "saya tidak mengerti"
+        },
+        {
+            "id": "73",
+            "idMatch": "68",
+            "text": "segera"
+        },
+        {
+            "id": "74",
+            "idMatch": "69",
+            "text": "kata"
+        },
+        {
+            "id": "75",
+            "idMatch": "70",
+            "text": "daripada"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "41",
+            "idMatch": "46",
+            "text": "not"
+        },
+        {
+            "id": "42",
+            "idMatch": "47",
+            "text": "him"
+        },
+        {
+            "id": "43",
+            "idMatch": "48",
+            "text": "know"
+        },
+        {
+            "id": "44",
+            "idMatch": "49",
+            "text": "our"
+        },
+        {
+            "id": "45",
+            "idMatch": "50",
+            "text": "at"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "46",
+            "idMatch": "41",
+            "text": "tidak"
+        },
+        {
+            "id": "47",
+            "idMatch": "42",
+            "text": "dia"
+        },
+        {
+            "id": "48",
+            "idMatch": "43",
+            "text": "mengetahui"
+        },
+        {
+            "id": "49",
+            "idMatch": "44",
+            "text": "kami"
+        },
+        {
+            "id": "50",
+            "idMatch": "45",
+            "text": "di"
+        }
+    ]
+}

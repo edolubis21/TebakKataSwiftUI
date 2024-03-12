@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "321",
+            "idMatch": "326",
+            "text": "meet"
+        },
+        {
+            "id": "322",
+            "idMatch": "327",
+            "text": "pink"
+        },
+        {
+            "id": "323",
+            "idMatch": "328",
+            "text": "enough"
+        },
+        {
+            "id": "324",
+            "idMatch": "329",
+            "text": "white"
+        },
+        {
+            "id": "325",
+            "idMatch": "330",
+            "text": "saw"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "326",
+            "idMatch": "321",
+            "text": "bertemu"
+        },
+        {
+            "id": "327",
+            "idMatch": "322",
+            "text": "merah muda"
+        },
+        {
+            "id": "328",
+            "idMatch": "323",
+            "text": "cukup"
+        },
+        {
+            "id": "329",
+            "idMatch": "324",
+            "text": "putih"
+        },
+        {
+            "id": "330",
+            "idMatch": "325",
+            "text": "melihat"
+        }
+    ]
+}

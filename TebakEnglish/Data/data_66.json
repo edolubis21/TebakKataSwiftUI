@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "331",
+            "idMatch": "336",
+            "text": "this"
+        },
+        {
+            "id": "332",
+            "idMatch": "337",
+            "text": "slowly"
+        },
+        {
+            "id": "333",
+            "idMatch": "338",
+            "text": "cold"
+        },
+        {
+            "id": "334",
+            "idMatch": "339",
+            "text": "us"
+        },
+        {
+            "id": "335",
+            "idMatch": "340",
+            "text": "part"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "336",
+            "idMatch": "331",
+            "text": "ini"
+        },
+        {
+            "id": "337",
+            "idMatch": "332",
+            "text": "lambat"
+        },
+        {
+            "id": "338",
+            "idMatch": "333",
+            "text": "dingin"
+        },
+        {
+            "id": "339",
+            "idMatch": "334",
+            "text": "kami"
+        },
+        {
+            "id": "340",
+            "idMatch": "335",
+            "text": "bagian"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "301",
+            "idMatch": "306",
+            "text": "busy"
+        },
+        {
+            "id": "302",
+            "idMatch": "307",
+            "text": "please"
+        },
+        {
+            "id": "303",
+            "idMatch": "308",
+            "text": "choose"
+        },
+        {
+            "id": "304",
+            "idMatch": "309",
+            "text": "before"
+        },
+        {
+            "id": "305",
+            "idMatch": "310",
+            "text": "play"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "306",
+            "idMatch": "301",
+            "text": "sibuk"
+        },
+        {
+            "id": "307",
+            "idMatch": "302",
+            "text": "tolong"
+        },
+        {
+            "id": "308",
+            "idMatch": "303",
+            "text": "memilih"
+        },
+        {
+            "id": "309",
+            "idMatch": "304",
+            "text": "sebelum"
+        },
+        {
+            "id": "310",
+            "idMatch": "305",
+            "text": "bermain"
+        }
+    ]
+}

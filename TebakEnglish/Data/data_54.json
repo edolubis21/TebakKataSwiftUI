@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "271",
+            "idMatch": "276",
+            "text": "been"
+        },
+        {
+            "id": "272",
+            "idMatch": "277",
+            "text": "could"
+        },
+        {
+            "id": "273",
+            "idMatch": "278",
+            "text": "few"
+        },
+        {
+            "id": "274",
+            "idMatch": "279",
+            "text": "away"
+        },
+        {
+            "id": "275",
+            "idMatch": "280",
+            "text": "went"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "276",
+            "idMatch": "271",
+            "text": "telah"
+        },
+        {
+            "id": "277",
+            "idMatch": "272",
+            "text": "bisa"
+        },
+        {
+            "id": "278",
+            "idMatch": "273",
+            "text": "sedikit"
+        },
+        {
+            "id": "279",
+            "idMatch": "274",
+            "text": "pergi"
+        },
+        {
+            "id": "280",
+            "idMatch": "275",
+            "text": "pergi"
+        }
+    ]
+}

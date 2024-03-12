@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "121",
+            "idMatch": "126",
+            "text": "happy"
+        },
+        {
+            "id": "122",
+            "idMatch": "127",
+            "text": "some"
+        },
+        {
+            "id": "123",
+            "idMatch": "128",
+            "text": "might"
+        },
+        {
+            "id": "124",
+            "idMatch": "129",
+            "text": "well"
+        },
+        {
+            "id": "125",
+            "idMatch": "130",
+            "text": "help"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "126",
+            "idMatch": "121",
+            "text": "bahagia"
+        },
+        {
+            "id": "127",
+            "idMatch": "122",
+            "text": "beberapa"
+        },
+        {
+            "id": "128",
+            "idMatch": "123",
+            "text": "mungkin"
+        },
+        {
+            "id": "129",
+            "idMatch": "124",
+            "text": "baik"
+        },
+        {
+            "id": "130",
+            "idMatch": "125",
+            "text": "membantu"
+        }
+    ]
+}

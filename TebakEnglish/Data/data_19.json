@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "96",
+            "idMatch": "101",
+            "text": "little"
+        },
+        {
+            "id": "97",
+            "idMatch": "102",
+            "text": "camera"
+        },
+        {
+            "id": "98",
+            "idMatch": "103",
+            "text": "water"
+        },
+        {
+            "id": "99",
+            "idMatch": "104",
+            "text": "hungry"
+        },
+        {
+            "id": "100",
+            "idMatch": "105",
+            "text": "friend"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "101",
+            "idMatch": "96",
+            "text": "sedikit"
+        },
+        {
+            "id": "102",
+            "idMatch": "97",
+            "text": "kamera"
+        },
+        {
+            "id": "103",
+            "idMatch": "98",
+            "text": "air"
+        },
+        {
+            "id": "104",
+            "idMatch": "99",
+            "text": "lapar"
+        },
+        {
+            "id": "105",
+            "idMatch": "100",
+            "text": "teman"
+        }
+    ]
+}

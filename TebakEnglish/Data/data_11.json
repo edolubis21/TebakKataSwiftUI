@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "56",
+            "idMatch": "61",
+            "text": "No problem"
+        },
+        {
+            "id": "57",
+            "idMatch": "62",
+            "text": "beyond"
+        },
+        {
+            "id": "58",
+            "idMatch": "63",
+            "text": "open"
+        },
+        {
+            "id": "59",
+            "idMatch": "64",
+            "text": "she"
+        },
+        {
+            "id": "60",
+            "idMatch": "65",
+            "text": "new"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "61",
+            "idMatch": "56",
+            "text": "Tidak masalah"
+        },
+        {
+            "id": "62",
+            "idMatch": "57",
+            "text": "di luar"
+        },
+        {
+            "id": "63",
+            "idMatch": "58",
+            "text": "membuka"
+        },
+        {
+            "id": "64",
+            "idMatch": "59",
+            "text": "dia"
+        },
+        {
+            "id": "65",
+            "idMatch": "60",
+            "text": "baru"
+        }
+    ]
+}

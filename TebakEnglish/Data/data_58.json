@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "291",
+            "idMatch": "296",
+            "text": "button"
+        },
+        {
+            "id": "292",
+            "idMatch": "297",
+            "text": "lucky"
+        },
+        {
+            "id": "293",
+            "idMatch": "298",
+            "text": "was"
+        },
+        {
+            "id": "294",
+            "idMatch": "299",
+            "text": "to"
+        },
+        {
+            "id": "295",
+            "idMatch": "300",
+            "text": "ago"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "296",
+            "idMatch": "291",
+            "text": "tombol"
+        },
+        {
+            "id": "297",
+            "idMatch": "292",
+            "text": "beruntung"
+        },
+        {
+            "id": "298",
+            "idMatch": "293",
+            "text": "adalah"
+        },
+        {
+            "id": "299",
+            "idMatch": "294",
+            "text": "ke"
+        },
+        {
+            "id": "300",
+            "idMatch": "295",
+            "text": "yang lalu"
+        }
+    ]
+}

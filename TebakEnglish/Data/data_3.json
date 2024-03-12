@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "16",
+            "idMatch": "21",
+            "text": "now"
+        },
+        {
+            "id": "17",
+            "idMatch": "22",
+            "text": "it"
+        },
+        {
+            "id": "18",
+            "idMatch": "23",
+            "text": "more"
+        },
+        {
+            "id": "19",
+            "idMatch": "24",
+            "text": "I'm fine, thank you. And you?"
+        },
+        {
+            "id": "20",
+            "idMatch": "25",
+            "text": "thing"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "21",
+            "idMatch": "16",
+            "text": "sekarang"
+        },
+        {
+            "id": "22",
+            "idMatch": "17",
+            "text": "itu"
+        },
+        {
+            "id": "23",
+            "idMatch": "18",
+            "text": "lebih"
+        },
+        {
+            "id": "24",
+            "idMatch": "19",
+            "text": "Baik, terima kasih. Anda?"
+        },
+        {
+            "id": "25",
+            "idMatch": "20",
+            "text": "hal"
+        }
+    ]
+}

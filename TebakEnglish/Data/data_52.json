@@ -1,0 +1,56 @@
+{
+    "rights": [
+        {
+            "id": "261",
+            "idMatch": "266",
+            "text": "give"
+        },
+        {
+            "id": "262",
+            "idMatch": "267",
+            "text": "and"
+        },
+        {
+            "id": "263",
+            "idMatch": "268",
+            "text": "available"
+        },
+        {
+            "id": "264",
+            "idMatch": "269",
+            "text": "wait"
+        },
+        {
+            "id": "265",
+            "idMatch": "270",
+            "text": "book"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "266",
+            "idMatch": "261",
+            "text": "memberi"
+        },
+        {
+            "id": "267",
+            "idMatch": "262",
+            "text": "dan"
+        },
+        {
+            "id": "268",
+            "idMatch": "263",
+            "text": "tersedia"
+        },
+        {
+            "id": "269",
+            "idMatch": "264",
+            "text": "menunggu"
+        },
+        {
+            "id": "270",
+            "idMatch": "265",
+            "text": "buku"
+        }
+    ]
+}
