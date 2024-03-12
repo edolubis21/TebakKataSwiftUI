@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum StatusGuessWord {
+    case correct
+    case wrong
+    case none
+}

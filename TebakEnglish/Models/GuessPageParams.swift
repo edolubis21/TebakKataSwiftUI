@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+struct GuessPageParams: Equatable {
+    let level: Int
+}

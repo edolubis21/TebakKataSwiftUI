@@ -1,0 +1,57 @@
+{
+    "id": "0",
+    "rights": [
+        {
+            "id": "1",
+            "idMatch": "6",
+            "text": "shirt"
+        },
+        {
+            "id": "2",
+            "idMatch": "7",
+            "text": "bag"
+        },
+        {
+            "id": "3",
+            "idMatch": "8",
+            "text": "door"
+        },
+        {
+            "id": "4",
+            "idMatch": "9",
+            "text": "wardrobe"
+        },
+        {
+            "id": "5",
+            "idMatch": "10",
+            "text": "soap"
+        }
+    ],
+    "lefts": [
+        {
+            "id": "6",
+            "idMatch": "1",
+            "text": "kemeja"
+        },
+        {
+            "id": "7",
+            "idMatch": "2",
+            "text": "tas"
+        },
+        {
+            "id": "8",
+            "idMatch": "3",
+            "text": "pintu"
+        },
+        {
+            "id": "9",
+            "idMatch": "4",
+            "text": "lemari pakaian"
+        },
+        {
+            "id": "10",
+            "idMatch": "5",
+            "text": "sabun"
+        }
+    ]
+}

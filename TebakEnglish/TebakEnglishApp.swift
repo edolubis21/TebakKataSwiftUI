@@ -9,9 +9,21 @@ import SwiftUI
 
 @main
 struct TebakEnglishApp: App {
+    
+    @StateObject var appStateViewModel = AppStateViewModel()
+    @StateObject var challangesViewModel = ChallangesViewModel()
+    @StateObject var myRecordsViewModel = MyRecordsViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ZStack {
+                if appStateViewModel.restartApp {
+                    ContentView()
+                        .environmentObject(challangesViewModel)
+                        .environmentObject(appStateViewModel)
+                        .environmentObject(myRecordsViewModel)
+                }
+            }
         }
     }
 }

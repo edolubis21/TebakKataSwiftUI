@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+enum SelectGuessWord {
+    case right
+    case left
+    case none
+}

@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+struct ResultPageParams: Equatable {
+    let time: Int
+    let countFinish: Int
+    let level: Int
+}
